@@ -1,0 +1,4 @@
+C:\Users\ZPD\Desktop\实验相关 (1)\模块一\VerySimpleServer(V2)-2023更新\VerySimpleServer\Debug\VerySimpleServer.exe
+C:\Users\ZPD\Desktop\Networking\实验相关 (1)\模块一\VerySimpleServer(V2)-2023更新\VerySimpleServer\Debug\VerySimpleServer.exe
+C:\Users\ZPD\Desktop\Networking\Web_server\VerySimpleServer\Debug\VerySimpleServer.exe
+C:\Users\ZPD\Desktop\Networking\lab1\Web_server\VerySimpleServer\Debug\VerySimpleServer.exe

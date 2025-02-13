@@ -1,0 +1,4 @@
+C:\Users\ZPD\Desktop\Networking\lab2\Windows VS2017\StopWait\Debug\StopWait.exe
+C:\Users\ZPD\Desktop\Networking\lab2\GBN\StopWait\Debug\StopWait.exe
+C:\Users\ZPD\Desktop\Networking\lab2\TCP\StopWait\Debug\StopWait.exe
+C:\Users\ZPD\Desktop\U202214121_周沛东\数据可靠传输协议设计实验\源码\TCP\StopWait\Debug\StopWait.exe

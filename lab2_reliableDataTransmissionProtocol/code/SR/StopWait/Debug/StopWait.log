@@ -1,0 +1,28 @@
+﻿D:\Study\VS-2019\vs-2019\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(1967,5): warning : The referenced project '..\netsimlib\netsimlib.vcxproj' does not exist.
+cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  stdafx.cpp
+cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  SRSender.cpp
+C:\Users\ZPD\Desktop\U202214121_周沛东\数据可靠传输协议设计实验\源码\SR\StopWait\SRSender.cpp(53,51): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\ZPD\Desktop\U202214121_周沛东\数据可靠传输协议设计实验\源码\SR\StopWait\SRSender.cpp(60,11): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\ZPD\Desktop\U202214121_周沛东\数据可靠传输协议设计实验\源码\SR\StopWait\SRSender.cpp(78,11): warning C4018: “<”: 有符号/无符号不匹配
+  SRReceiver.cpp
+C:\Users\ZPD\Desktop\U202214121_周沛东\数据可靠传输协议设计实验\源码\SR\StopWait\SRReceiver.cpp(39,10): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\ZPD\Desktop\U202214121_周沛东\数据可靠传输协议设计实验\源码\SR\StopWait\SRReceiver.cpp(64,10): warning C4018: “<”: 有符号/无符号不匹配
+  SR.cpp
+  正在生成代码...
+stdafx.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+netsimlib.lib(DataStructure.obj) : warning LNK4099: 未找到 PDB“”(使用“netsimlib.lib(DataStructure.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+netsimlib.lib(FileAppMessageFeeder.obj) : warning LNK4099: 未找到 PDB“netsimlib.pdb”(使用“netsimlib.lib(FileAppMessageFeeder.obj)”或在“C:\Users\ZPD\Desktop\U202214121_周沛东\数据可靠传输协议设计实验\源码\SR\StopWait\Debug\netsimlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+netsimlib.lib(FileAppMessageWriter.obj) : warning LNK4099: 未找到 PDB“netsimlib.pdb”(使用“netsimlib.lib(FileAppMessageWriter.obj)”或在“C:\Users\ZPD\Desktop\U202214121_周沛东\数据可靠传输协议设计实验\源码\SR\StopWait\Debug\netsimlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+netsimlib.lib(NetworkService.obj) : warning LNK4099: 未找到 PDB“netsimlib.pdb”(使用“netsimlib.lib(NetworkService.obj)”或在“C:\Users\ZPD\Desktop\U202214121_周沛东\数据可靠传输协议设计实验\源码\SR\StopWait\Debug\netsimlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+netsimlib.lib(NetworkServiceConfiguration.obj) : warning LNK4099: 未找到 PDB“netsimlib.pdb”(使用“netsimlib.lib(NetworkServiceConfiguration.obj)”或在“C:\Users\ZPD\Desktop\U202214121_周沛东\数据可靠传输协议设计实验\源码\SR\StopWait\Debug\netsimlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+netsimlib.lib(NetworkServiceSimulator.obj) : warning LNK4099: 未找到 PDB“netsimlib.pdb”(使用“netsimlib.lib(NetworkServiceSimulator.obj)”或在“C:\Users\ZPD\Desktop\U202214121_周沛东\数据可靠传输协议设计实验\源码\SR\StopWait\Debug\netsimlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+netsimlib.lib(RandomEvent.obj) : warning LNK4099: 未找到 PDB“netsimlib.pdb”(使用“netsimlib.lib(RandomEvent.obj)”或在“C:\Users\ZPD\Desktop\U202214121_周沛东\数据可靠传输协议设计实验\源码\SR\StopWait\Debug\netsimlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+netsimlib.lib(RandomEventList.obj) : warning LNK4099: 未找到 PDB“netsimlib.pdb”(使用“netsimlib.lib(RandomEventList.obj)”或在“C:\Users\ZPD\Desktop\U202214121_周沛东\数据可靠传输协议设计实验\源码\SR\StopWait\Debug\netsimlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+netsimlib.lib(RdtReceiver.obj) : warning LNK4099: 未找到 PDB“netsimlib.pdb”(使用“netsimlib.lib(RdtReceiver.obj)”或在“C:\Users\ZPD\Desktop\U202214121_周沛东\数据可靠传输协议设计实验\源码\SR\StopWait\Debug\netsimlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+netsimlib.lib(RdtSender.obj) : warning LNK4099: 未找到 PDB“netsimlib.pdb”(使用“netsimlib.lib(RdtSender.obj)”或在“C:\Users\ZPD\Desktop\U202214121_周沛东\数据可靠传输协议设计实验\源码\SR\StopWait\Debug\netsimlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+netsimlib.lib(stdafx.obj) : warning LNK4099: 未找到 PDB“”(使用“netsimlib.lib(stdafx.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+netsimlib.lib(Tool.obj) : warning LNK4099: 未找到 PDB“netsimlib.pdb”(使用“netsimlib.lib(Tool.obj)”或在“C:\Users\ZPD\Desktop\U202214121_周沛东\数据可靠传输协议设计实验\源码\SR\StopWait\Debug\netsimlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+netsimlib.lib(Utils.obj) : warning LNK4099: 未找到 PDB“netsimlib.pdb”(使用“netsimlib.lib(Utils.obj)”或在“C:\Users\ZPD\Desktop\U202214121_周沛东\数据可靠传输协议设计实验\源码\SR\StopWait\Debug\netsimlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  StopWait.vcxproj -> C:\Users\ZPD\Desktop\U202214121_周沛东\数据可靠传输协议设计实验\源码\SR\StopWait\Debug\StopWait.exe

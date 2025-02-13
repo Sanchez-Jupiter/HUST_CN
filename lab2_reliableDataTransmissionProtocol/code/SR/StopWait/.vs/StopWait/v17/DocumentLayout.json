@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ZPD\\Desktop\\Networking\\lab2\\SR\\StopWait\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E23A03-9974-40AE-9555-138B5F2FEDA4}|StopWait.vcxproj|C:\\Users\\ZPD\\Desktop\\Networking\\lab2\\SR\\StopWait\\SRSender.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B9E23A03-9974-40AE-9555-138B5F2FEDA4}|StopWait.vcxproj|solutionrelative:SRSender.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E23A03-9974-40AE-9555-138B5F2FEDA4}|StopWait.vcxproj|C:\\Users\\ZPD\\Desktop\\Networking\\lab2\\SR\\StopWait\\SRReceiver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B9E23A03-9974-40AE-9555-138B5F2FEDA4}|StopWait.vcxproj|solutionrelative:SRReceiver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E23A03-9974-40AE-9555-138B5F2FEDA4}|StopWait.vcxproj|C:\\Users\\ZPD\\Desktop\\Networking\\lab2\\SR\\StopWait\\SR.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B9E23A03-9974-40AE-9555-138B5F2FEDA4}|StopWait.vcxproj|solutionrelative:SR.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SRSender.cpp",
+              "DocumentMoniker": "C:\\Users\\ZPD\\Desktop\\Networking\\lab2\\SR\\StopWait\\SRSender.cpp",
+              "RelativeDocumentMoniker": "SRSender.cpp",
+              "ToolTip": "C:\\Users\\ZPD\\Desktop\\Networking\\lab2\\SR\\StopWait\\SRSender.cpp",
+              "RelativeToolTip": "SRSender.cpp",
+              "ViewState": "AgIAADkAAAAAAAAAAAD4v0kAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-27T23:25:51.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SRReceiver.cpp",
+              "DocumentMoniker": "C:\\Users\\ZPD\\Desktop\\Networking\\lab2\\SR\\StopWait\\SRReceiver.cpp",
+              "RelativeDocumentMoniker": "SRReceiver.cpp",
+              "ToolTip": "C:\\Users\\ZPD\\Desktop\\Networking\\lab2\\SR\\StopWait\\SRReceiver.cpp",
+              "RelativeToolTip": "SRReceiver.cpp",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-27T23:24:04.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SR.cpp",
+              "DocumentMoniker": "C:\\Users\\ZPD\\Desktop\\Networking\\lab2\\SR\\StopWait\\SR.cpp",
+              "RelativeDocumentMoniker": "SR.cpp",
+              "ToolTip": "C:\\Users\\ZPD\\Desktop\\Networking\\lab2\\SR\\StopWait\\SR.cpp",
+              "RelativeToolTip": "SR.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-27T23:23:39.919Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

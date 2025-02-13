@@ -1,0 +1,2 @@
+Windows下直接运行可执行码/Web_server中的可执行文件
+在可执行码/src中的config.txt中修改配置信息。
